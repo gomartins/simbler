@@ -46,7 +46,7 @@ Documentação completa pode ser encontrado junto com o download do utilitário 
 
 ### Exemplos
 
-######1. Cálculo da área de um quadrado (tamanho 7)
+1. Cálculo da área de um quadrado (tamanho 7)
 ```
 DB 7 ;Define o valor do lado do quadrado
 LOAD @0 ;Carrega em AX o valor do endereço "0" de memória
