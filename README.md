@@ -2,7 +2,7 @@
 #### Simulador de Linguagem Assembly
 ___
 
-O Simbler foi desenvolvido por Guilherme de Oliveira Martins em 2011 como parte do projeto final do curso de Ciência da Computação da Faculdade Municipal Professor Franco Montoro. 
+O Simbler foi desenvolvido em 2011 como parte do projeto final do curso de Ciência da Computação da Faculdade Municipal Professor Franco Montoro. 
 
 ![Simbler](https://intercienciaesociedade.francomontoro.com.br/images/simbler2.jpg "Simbler")
 
